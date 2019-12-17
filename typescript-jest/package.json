@@ -26,7 +26,8 @@
     "jest": "24.9.0",
     "ts-jest": "24.1.0",
     "tslint": "5.20.1",
-    "tslint-config-prettier": "1.18.0",
+    "tsconfig-seek": "^1.0.2",
+    "tslint-config-seek": "1.2.0",
     "typescript": "3.7.2"
   },
   "jest": {
